@@ -6,7 +6,6 @@ A simple script that backs up the contents of your USB drive to a folder on your
 
 Available for Windows (.bat) and Linux / macOS (.sh) (soon).
 
-[Download](https://github.com/jgarciarom/Simple-USB-Backup/blob/main/simple-usb-backup.bat)
 ## Features
 - One-click backup
 - Easy to configure (only 2 lines to edit)
