@@ -4,7 +4,7 @@
 
 A simple script that backs up the contents of your USB drive to a folder on your PC. Every backup is saved on a date-stamped folder, so previous backups don't get overwritten.
 
-Available for Windows (.bat) and Linux / macOS (.sh).
+Available for Windows (.bat) and Linux / macOS (.sh) (soon).
 
 [Download](https://github.com/jgarciarom/Simple-USB-Backup/blob/main/simple-usb-backup.bat)
 ## Features
@@ -15,7 +15,7 @@ Available for Windows (.bat) and Linux / macOS (.sh).
 | System            | File                      |
 | ----------------- | ------------------------- |
 | **Windows**       | [simple-usb-backup.bat](simple-USB-backup.bat) |
-| **Linux / macOS** | [simple-usb-backup.sh]()  |
+| **Linux / macOS** | Soon  |
 ## Configuration & Usage
 
 1. Copy the script to the root of your USB drive.
