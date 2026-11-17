@@ -19,20 +19,14 @@ Available for Windows (.bat) and Linux / macOS (.sh).
 ## Configuration & Usage
 
 1. Copy the script to the root of your USB drive.
-
 2. Open the script with a text editor and change these two lines at the top. It should look something like this:
 ``` 
-REM ==========================================================
-
 set "SOURCE=E:\"
 
-set "BACKUP_ROOT=D:\BACKUPS\Pendrive"
-
-REM ==========================================================
+set "BACKUP_ROOT=C:\Users\JohnUSB\Documents\Backup Folder"
 ```
-
 3. Double click the script to start a backup process.
 ## License
-
+This project is licensed under the MIT License.
 
 
