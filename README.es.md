@@ -4,9 +4,8 @@
 
 Un script simple que crea una copia de seguridad de tu USB a una carpeta de tu PC. Todas las copias se guardan en una carpeta con la fecha, de forma que copias de seguridad anteriores no se vean sobreescritas.
 
-Disponible para Windows(.bat) y Linux / macOS (.sh)
+Disponible para Windows(.bat) y Linux / macOS (.sh) (soon)
 
-[Descargar](https://github.com/jgarciarom/Simple-USB-Backup/blob/main/simple-usb-backup.bat)
 ## Características
 - Copias de seguridad con un click.
 - Fácil de configurar (solo hay que editar dos líneas).
@@ -15,7 +14,7 @@ Disponible para Windows(.bat) y Linux / macOS (.sh)
 | Sistema           | Archivo                      |
 | ----------------- | ------------------------- |
 | **Windows**       | [simple-usb-backup.bat](simple-USB-backup.bat) |
-| **Linux / macOS** | [simple-usb-backup.sh]()  |
+| **Linux / macOS** | Soon  |
 ## Configuración Y Uso
 
 1. Copia el script a la raíz de tu USB.
