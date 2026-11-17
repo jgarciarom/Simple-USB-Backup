@@ -5,9 +5,9 @@ REM ==========================================================
 REM  You only need to change these 2 lines:
 REM ==========================================================
 
-set "SOURCE=E:\"
+set "SOURCE=D:\"
 
-set "BACKUP_ROOT=D:\.BACKUPS\Pendrive"
+set "BACKUP_ROOT=C:\Users\JohnUSB\Documents\Backup Folder"
 
 REM ==========================================================
 REM  No need to change anything below this line
@@ -30,7 +30,6 @@ echo Copying...
 
 robocopy "%SOURCE%." "%DEST%" /E /R:1 /W:1 /XD "System Volume Information" "$RECYCLE.BIN"
 
-REM robocopy returns 0-7 on success, 8 or more on errors
 if %ERRORLEVEL% LSS 8 (
     powershell -NoProfile -Command "Add-Type -AssemblyName PresentationFramework; [System.Windows.MessageBox]::Show('Backup completed in: %DEST%','Backup',0,64)"
 ) else (
