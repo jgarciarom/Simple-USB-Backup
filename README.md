@@ -13,7 +13,7 @@ Available for Windows (.bat) and Linux / macOS (.sh) (soon).
 ## Files
 | System            | File                      |
 | ----------------- | ------------------------- |
-| **Windows**       | [simple-usb-backup.bat](simple-USB-backup.bat) |
+| **Windows**       | [simple-usb-backup.bat](simple-usb-backup.bat) |
 | **Linux / macOS** | Soon  |
 ## Configuration & Usage
 
