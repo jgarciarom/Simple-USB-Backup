@@ -4,8 +4,7 @@
 
 Un script simple que crea una copia de seguridad de tu USB a una carpeta de tu PC. Todas las copias se guardan en una carpeta con la fecha, de forma que copias de seguridad anteriores no se vean sobreescritas.
 
-Disponible para Windows(.bat) y Linux / macOS (.sh) (soon)
-
+Disponible para Windows(.bat) y Linux / macOS (.sh).
 ## Características
 - Copias de seguridad con un click.
 - Fácil de configurar (solo hay que editar dos líneas).
