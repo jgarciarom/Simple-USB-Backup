@@ -14,7 +14,7 @@ Disponible para Windows(.bat) y Linux / macOS (.sh) (soon)
 | Sistema           | Archivo                      |
 | ----------------- | ------------------------- |
 | **Windows**       | [simple-usb-backup.bat](simple-USB-backup.bat) |
-| **Linux / macOS** | Soon  |
+| **Linux / macOS** | [simple-usb-backup.sh](simple-USB-backup.sh) |
 ## Configuración Y Uso
 
 1. Copia el script a la raíz de tu USB.
